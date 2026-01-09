@@ -4,12 +4,14 @@ crewai
 openai>=1.6.1
 unstructured>=0.11.0
 pyowm>=3.3.0
-langchain
-langchain-community
-langchain-core
+# langchain
+# langchain-community
+# langchain-core
+# new added
+langchain==0.3.76
+langchain-core==0.3.76
+langchain-community==0.3.76
 tools>=0.1.9
-
-
 
 # Web framework
 fastapi>=0.109.0
