@@ -7,10 +7,10 @@ pyowm>=3.3.0
 # langchain
 # langchain-community
 # langchain-core
-# new added
-langchain==0.3.76
-langchain-core==0.3.76
-langchain-community==0.3.76
+# new added below
+langchain>=0.3.76
+langchain-core>=0.3.76
+langchain-community>=0.3.76
 tools>=0.1.9
 
 # Web framework
